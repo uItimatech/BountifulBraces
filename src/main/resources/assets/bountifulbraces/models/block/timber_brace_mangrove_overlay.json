@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/timber_frame_overlay",
+	"textures": {
+		"1": "bountifulbraces:block/timber_brace_mangrove",
+		"2": "bountifulbraces:block/timber_brace_mangrove_f"
+	}
+}

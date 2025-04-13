@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "has_block=false": {
+      "model": "bountifulbraces:block/INSTANCE"
+    },
+    "has_block=true": {
+      "model": "bountifulbraces:block/INSTANCE_loader"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "supplementaries:REFERENCE"
+        },
+        "P": {
+            "item": "minecraft:WOODTYPE_planks"
+        }
+    },
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "result": {
+        "id": "bountifulbraces:INSTANCE",
+        "count": 8
+    }
+}

@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "has_block=false": {
+      "model": "bountifulbraces:block/timber_frame_oak"
+    },
+    "has_block=true": {
+      "model": "bountifulbraces:block/timber_frame_oak_loader"
+    }
+  }
+}

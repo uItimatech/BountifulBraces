@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/timber_frame",
+	"textures": {
+		"1": "bountifulbraces:block/timber_cross_brace_pale_oak",
+		"2": "bountifulbraces:block/timber_cross_brace_pale_oak"
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "supplementaries:timber_brace"
+        },
+        "P": {
+            "item": "minecraft:pale_oak_planks"
+        }
+    },
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "result": {
+        "id": "bountifulbraces:timber_brace_pale_oak",
+        "count": 8
+    }
+}

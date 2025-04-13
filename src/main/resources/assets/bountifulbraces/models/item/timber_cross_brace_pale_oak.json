@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bountifulbraces:item/timber_cross_brace_pale_oak"
+  }
+}

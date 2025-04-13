@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+    "has_block=false": {
+      "model": "bountifulbraces:block/timber_cross_brace_jungle"
+    },
+    "has_block=true": {
+      "model": "bountifulbraces:block/timber_cross_brace_jungle_loader"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "flipped=false": {
+            "model": "bountifulbraces:block/daub_brace_crimson"
+        },
+        "flipped=true": {
+            "model": "bountifulbraces:block/daub_brace_crimson_f"
+        }
+    }
+}

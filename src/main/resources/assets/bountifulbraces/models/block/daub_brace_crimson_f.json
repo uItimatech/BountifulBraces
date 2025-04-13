@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "bountifulbraces:block/daub_brace_crimson_f"
+    }
+}

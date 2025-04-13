@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/timber_frame",
+	"textures": {
+		"1": "bountifulbraces:block/INSTANCE",
+		"2": "bountifulbraces:block/INSTANCE"
+	}
+}

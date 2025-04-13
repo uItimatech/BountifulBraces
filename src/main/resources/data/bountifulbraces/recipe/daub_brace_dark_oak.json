@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "supplementaries:daub_brace"
+        },
+        "P": {
+            "item": "minecraft:dark_oak_planks"
+        }
+    },
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "result": {
+        "id": "bountifulbraces:daub_brace_dark_oak",
+        "count": 8
+    }
+}

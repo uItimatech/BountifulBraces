@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "flipped=false": {
+            "model": "bountifulbraces:block/INSTANCE"
+        },
+        "flipped=true": {
+            "model": "bountifulbraces:block/INSTANCE_f"
+        }
+    }
+}

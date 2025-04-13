@@ -1,0 +1,17 @@
+
+{
+  "variants": {
+    "has_block=false,flipped=true": {
+      "model": "bountifulbraces:block/timber_brace_jungle_f"
+    },
+    "has_block=true,flipped=true": {
+      "model": "bountifulbraces:block/timber_brace_jungle_loader_f"
+    },
+    "has_block=false,flipped=false": {
+      "model": "bountifulbraces:block/timber_brace_jungle"
+    },
+    "has_block=true,flipped=false": {
+      "model": "bountifulbraces:block/timber_brace_jungle_loader"
+    }
+  }
+}

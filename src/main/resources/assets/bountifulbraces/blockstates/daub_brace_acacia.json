@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "flipped=false": {
+            "model": "bountifulbraces:block/daub_brace_acacia"
+        },
+        "flipped=true": {
+            "model": "bountifulbraces:block/daub_brace_acacia_f"
+        }
+    }
+}

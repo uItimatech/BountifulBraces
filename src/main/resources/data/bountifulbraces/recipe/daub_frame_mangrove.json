@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "item": "supplementaries:daub_frame"
+        },
+        "P": {
+            "item": "minecraft:mangrove_planks"
+        }
+    },
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "result": {
+        "id": "bountifulbraces:daub_frame_mangrove",
+        "count": 8
+    }
+}

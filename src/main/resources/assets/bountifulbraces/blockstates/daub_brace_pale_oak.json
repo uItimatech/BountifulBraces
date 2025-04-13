@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "flipped=false": {
+            "model": "bountifulbraces:block/daub_brace_pale_oak"
+        },
+        "flipped=true": {
+            "model": "bountifulbraces:block/daub_brace_pale_oak_f"
+        }
+    }
+}

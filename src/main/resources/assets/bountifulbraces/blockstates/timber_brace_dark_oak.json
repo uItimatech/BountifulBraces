@@ -1,0 +1,17 @@
+
+{
+  "variants": {
+    "has_block=false,flipped=true": {
+      "model": "bountifulbraces:block/timber_brace_dark_oak_f"
+    },
+    "has_block=true,flipped=true": {
+      "model": "bountifulbraces:block/timber_brace_dark_oak_loader_f"
+    },
+    "has_block=false,flipped=false": {
+      "model": "bountifulbraces:block/timber_brace_dark_oak"
+    },
+    "has_block=true,flipped=false": {
+      "model": "bountifulbraces:block/timber_brace_dark_oak_loader"
+    }
+  }
+}
